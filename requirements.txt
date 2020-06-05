@@ -22,7 +22,7 @@ cryptography==2.1.4
 cssselect==1.0.1
 decorator==3.4.0
 defusedxml==0.5.0
-Django==1.10.6
+Django==1.11.29
 django-adminfiles==1.0.1
 django-bootstrap-static==4.0.0
 django-bootstrap3==9.1.0
