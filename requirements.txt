@@ -11,7 +11,7 @@ binaryornot==0.4.4
 bitfinex==0.2.6
 bottle==0.12.13
 bs4==0.0.1
-celery==4.1.0
+celery==5.2.2
 certifi==2017.11.5
 cffi==1.11.2
 chardet==3.0.4
